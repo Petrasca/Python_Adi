@@ -1,9 +1,0 @@
-Tutoriale Python : https://www.youtube.com/playlist?list=PLEA1FEF17E1E5C0DA
-
-cand ai terminat cu video-urile
-te uiti la astea:
-https://www.youtube.com/watch?v=RJB1Ek2Ko_Y
-
-Pana nu uit, sa citesti asta pentru cunostinte generale
-https://en.wikibooks.org/wiki/Microprocessor_Design/Computer_Architecture
-Asa sa stii SW-rul din calculatoare
